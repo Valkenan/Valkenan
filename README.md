@@ -142,11 +142,6 @@ public:
 <br/><br/>
 <p><strong>🌐 Web Project</strong></p>
 <p>HTML-based project showcasing web development skills and front-end design capabilities.</p>
-<br/>
-<a href="https://github.com/Valkenan/Programming" target="_blank"><img src="https://img.shields.io/badge/Programming-Archived-grey?style=for-the-badge&logo=github" alt="Programming"/></a>
-<br/><br/>
-<p><strong>🗄️ Programming Archive</strong></p>
-<p>Archived collection of programming courses and learning materials.</p>
 </div>
 </td>
 </tr>
@@ -256,7 +251,7 @@ public:
 
 <div align="center">
 
-## ⚡ Coding Stats
+## 📊 GitHub Statistics & Insights
 
 <table>
 <tr>
@@ -291,13 +286,7 @@ public:
 </tr>
 </table>
 
-</div>
-
----
-
-<div align="center">
-
-## 📊 Code Statistics & Insights
+<br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Valkenan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Valkenan&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />

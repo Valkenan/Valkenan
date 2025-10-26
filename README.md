@@ -1,22 +1,66 @@
 <div align="center">
-  
-# Hi 👋, I'm Adam El Fennych (Valkenan)
 
-### Passionate C++ Developer | Software Engineering Enthusiast
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Valkenan&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adam%20El%20Fennych&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Valkenan%20|%20C++%20Developer%20|%20Code%20Architect&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
+<div align="center">
+  
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Workshop+%F0%9F%9B%A0%EF%B8%8F;Building+the+Future+with+C%2B%2B+%F0%9F%9A%80;Crafting+Elegant+Code+Solutions+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+
+</div>
+
+<br/>
+
+<!-- Snake eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- 🔭 Currently focusing on **C++ development** and mastering **Object-Oriented Programming (OOP)**
-- 🌱 Continuously learning and improving my software engineering skills
-- 💡 Passionate about clean code, efficient algorithms, and system design
-- 📫 Reach me at: **adamfennych07@gmail.com**
-- 💬 Open to collaboration and interesting projects!
+## 🎯 About Me
+
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```cpp
+class Developer {
+private:
+    string name = "Adam El Fennych (Valkenan)";
+    string location = "🌍 Earth";
+    vector<string> currentFocus = {"C++", "OOP", "System Design"};
+
+public:
+    void getCurrentMission() {
+        cout << "🔭 Mastering C++ & Object-Oriented Programming\n";
+        cout << "💡 Building elegant, efficient solutions\n";
+        cout << "🌱 Constantly learning & evolving\n";
+        cout << "🤝 Open for collaboration & innovation\n";
+    }
+
+    string getContact() {
+        return "adamfennych07@gmail.com";
+    }
+};
+```
+
+<br clear="right"/>
+
+<div align="center">
+
+### 🎨 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+</div>
 
 ---
 

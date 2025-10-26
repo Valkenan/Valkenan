@@ -114,6 +114,56 @@ public:
 
 <div align="center">
 
+## 📚 Featured Projects
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">C++ Course Series</h3>
+<div align="center">  
+<a href="https://github.com/Valkenan/Cours-6" target="_blank"><img src="https://img.shields.io/badge/Cours--6-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-6"/></a>
+<a href="https://github.com/Valkenan/Cours-5" target="_blank"><img src="https://img.shields.io/badge/Cours--5-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-5"/></a>
+<br/>
+<a href="https://github.com/Valkenan/Cours-4" target="_blank"><img src="https://img.shields.io/badge/Cours--4-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-4"/></a>
+<a href="https://github.com/Valkenan/cours-3" target="_blank"><img src="https://img.shields.io/badge/Cours--3-C++-00599C?style=for-the-badge&logo=cplusplus" alt="cours-3"/></a>
+<br/><br/>
+<p><strong>📖 C++ Learning Journey</strong></p>
+<p>Comprehensive C++ course materials covering fundamental to advanced concepts, including OOP, data structures, and algorithms.</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Web Development</h3>
+<div align="center">
+<a href="https://github.com/Valkenan/Project-12" target="_blank"><img src="https://img.shields.io/badge/Project--12-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Project-12"/></a>
+<br/><br/>
+<p><strong>🌐 Web Project</strong></p>
+<p>HTML-based project showcasing web development skills and front-end design capabilities.</p>
+<br/>
+<a href="https://github.com/Valkenan/Programming" target="_blank"><img src="https://img.shields.io/badge/Programming-Archived-grey?style=for-the-badge&logo=github" alt="Programming"/></a>
+<br/><br/>
+<p><strong>🗄️ Programming Archive</strong></p>
+<p>Archived collection of programming courses and learning materials.</p>
+</div>
+</td>
+</tr>
+</table>
+
+<p>
+  <a href="https://github.com/Valkenan?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black" alt="View All Repositories"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🌐 Let's Connect & Collaborate
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/Valkenan)
@@ -215,26 +265,26 @@ public:
 **🖥️ Developer Info**
 
 ```text
-👨‍💻 Years of coding      3+
-🔥 Commits this year     500+
-⭐ Total Stars           20+
+👨‍💻 Years of Coding       2+
+🔥 Active Repositories   7
+⭐ Total Commits          Growing Daily
 🌟 Favorite Language     C++
-🎯 Current Goal          Master DSA
-💼 Status                Open to work
+🎯 Current Goal          Master OOP & DSA
+💼 Status                Student & Developer
 ```
 
 </td>
 <td width="50%">
 
-**📈 This Week**
+**📈 Learning Focus**
 
 ```text
-⌚ Coding Time           15+ hrs
-🐛 Bugs Fixed            8
-✨ Projects Worked        3
-📝 Lines Written         2000+
+📚 C++ Courses           6 Modules
+🏗️ Web Development       In Progress
+✨ Projects Active        Multiple
+📝 Code Quality          Clean & Efficient
 ☕ Coffee Consumed        ∞
-💪 Problems Solved       12
+💪 Challenges Daily      Yes!
 ```
 
 </td>
@@ -323,11 +373,16 @@ public:
 
 ```javascript
 const Adam = {
-  code: ["C++", "Python", "JavaScript"],
-  tools: ["VS Code", "Git", "Linux"],
+  code: ["C++", "Python", "HTML/CSS"],
+  tools: ["VS Code", "Git", "Linux", "CMake"],
   architecture: ["OOP", "Design Patterns"],
-  currentChallenge: "Building scalable C++ applications",
+  currentProject: "Multiple C++ course modules & web projects",
+  learningPath: "From fundamentals to advanced C++ concepts",
+  repositories: 7,
   funFact: "I debug in my dreams 💭",
+  askMeAbout: ["C++", "OOP", "Problem Solving", "Learning Resources"]
+};
+```
   askMeAbout: ["C++", "Algorithms", "Problem Solving"],
 };
 ```
@@ -345,12 +400,6 @@ const Adam = {
 **⭐ Starring my repositories** • **🔄 Sharing with others** • **💬 Following for updates**
 
 <br/>
-
-<a href="https://www.buymeacoffee.com/valkenan" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
-</a>
-
-<br/><br/>
 
 **Let's build something amazing together! 🚀**
 

@@ -241,16 +241,6 @@ public:
 
 <div align="center">
 
-## 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Valkenan&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
 ## 📊 GitHub Statistics & Insights
 
 <table>

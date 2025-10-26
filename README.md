@@ -321,7 +321,7 @@ public:
 
 ### 🎯 Current Mission: Building Tomorrow's Solutions Today
 
-```ascii
+```text
    ____          __             ___      ____  __  __     ______
   / __ \____    / /_  ____     /   |    / __ \/ / / /    /_  __/___  ____ ___  __
  / / / / __ \  / / / / / /    / /| |   / / / / / / /      / / / __ \/ __ `__ \/ /
@@ -355,23 +355,6 @@ public:
 <br/>
 
 ### ⚡ _"First, solve the problem. Then, write the code."_ – John Johnson
-
----
-
-### 🎮 Fun Fact
-
-```javascript
-const Adam = {
-  code: ["C++", "Python", "HTML/CSS"],
-  tools: ["VS Code", "Git", "Linux", "CMake"],
-  architecture: ["OOP", "Design Patterns"],
-  currentProject: "Multiple C++ course modules & web projects",
-  learningPath: "From fundamentals to advanced C++ concepts",
-  repositories: 7,
-  funFact: "I debug in my dreams 💭",
-  askMeAbout: ["C++", "OOP", "Problem Solving", "Learning Resources"],
-};
-```
 
 </div>
 

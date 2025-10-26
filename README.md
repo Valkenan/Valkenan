@@ -86,26 +86,46 @@ public:
 
 <div align="center">
 
+## 🔥 Current Focus
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
+<br><b>Advanced C++</b>
+<br><sub>Templates & STL</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="60" height="60" alt="OOP"/>
+<br><b>OOP Design</b>
+<br><sub>SOLID Principles</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/4215/4215831.png" width="60" height="60" alt="Algorithms"/>
+<br><b>Algorithms</b>
+<br><sub>Data Structures</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🌐 Let's Connect & Collaborate
 
-<a href="https://github.com/Valkenan">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/adam-el-fennych-b548a338a">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/elfennychadam/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://twitter.com/valkenan_">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://discord.gg/valkenan">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="mailto:adamfennych07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/Valkenan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-el-fennych-b548a338a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elfennychadam/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/valkenan_)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/valkenan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamfennych07@gmail.com)
+
+<br/>
+
+**💬 Open to collaboration • 🚀 Always learning • 💡 Building the future, one line at a time**
 
 </div>
 
@@ -186,6 +206,45 @@ public:
 
 <div align="center">
 
+## ⚡ Coding Stats
+
+<table>
+<tr>
+<td width="50%">
+
+**🖥️ Developer Info**
+```text
+👨‍💻 Years of coding      3+
+🔥 Commits this year     500+
+⭐ Total Stars           20+
+🌟 Favorite Language     C++
+🎯 Current Goal          Master DSA
+💼 Status                Open to work
+```
+
+</td>
+<td width="50%">
+
+**📈 This Week**
+```text
+⌚ Coding Time           15+ hrs
+🐛 Bugs Fixed            8
+✨ Projects Worked        3
+📝 Lines Written         2000+
+☕ Coffee Consumed        ∞
+💪 Problems Solved       12
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 📊 Code Statistics & Insights
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Valkenan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true&include_all_commits=true" />
@@ -230,11 +289,46 @@ public:
                /____/
 ```
 
+<br/>
+
+<table>
+<tr>
+<td>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Valkenan&color=F85D7F&style=for-the-badge&label=PROFILE+VIEWS)
+
+</td>
+<td>
+
 ![GitHub Followers](https://img.shields.io/github/followers/Valkenan?style=for-the-badge&color=F85D7F&labelColor=0D1117)
+
+</td>
+<td>
+
 ![GitHub Stars](https://img.shields.io/github/stars/Valkenan?style=for-the-badge&color=F8D866&labelColor=0D1117)
 
+</td>
+</tr>
+</table>
+
+<br/>
+
 ### ⚡ _"First, solve the problem. Then, write the code."_ – John Johnson
+
+---
+
+### 🎮 Fun Fact
+
+```javascript
+const Adam = {
+  code: ["C++", "Python", "JavaScript"],
+  tools: ["VS Code", "Git", "Linux"],
+  architecture: ["OOP", "Design Patterns"],
+  currentChallenge: "Building scalable C++ applications",
+  funFact: "I debug in my dreams 💭",
+  askMeAbout: ["C++", "Algorithms", "Problem Solving"]
+};
+```
 
 </div>
 
@@ -244,12 +338,32 @@ public:
 
 ### 🌟 Support My Work
 
-If you find my projects helpful or interesting, consider giving them a ⭐!<br/>
-Every star motivates me to create better code and share more knowledge with the community.
+<p>If you find my projects helpful or interesting, consider:</p>
+
+**⭐ Starring my repositories** • **🔄 Sharing with others** • **💬 Following for updates**
+
+<br/>
+
+<a href="https://www.buymeacoffee.com/valkenan" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
+</a>
+
+<br/><br/>
 
 **Let's build something amazing together! 🚀**
 
+<br/>
+
+```cpp
+// Thanks for visiting! 
+if (you.liked(this.profile)) {
+    return "⭐ Star my repos!";
+}
+```
+
 </div>
+
+<br/>
 
 <div align="center">
 

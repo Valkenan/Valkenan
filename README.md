@@ -14,12 +14,11 @@
 
 <br/>
 
-<!-- Snake eating contributions -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 <br/>
 
@@ -31,21 +30,29 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
+
+<table border="0" align="center">
+<tr>
+<td width="50%" align="left">
 
 ```cpp
 class Developer {
 private:
-    string name = "Adam El Fennych (Valkenan)";
+    string name = "Adam El Fennych";
+    string alias = "Valkenan";
     string location = "🌍 Earth";
-    vector<string> currentFocus = {"C++", "OOP", "System Design"};
+    vector<string> focus = {
+        "C++", "OOP",
+        "System Design"
+    };
 
 public:
     void getCurrentMission() {
-        cout << "🔭 Mastering C++ & Object-Oriented Programming\n";
-        cout << "💡 Building elegant, efficient solutions\n";
-        cout << "🌱 Constantly learning & evolving\n";
-        cout << "🤝 Open for collaboration & innovation\n";
+        cout << "🔭 Mastering C++ & OOP\n";
+        cout << "💡 Building elegant solutions\n";
+        cout << "🌱 Constantly evolving\n";
+        cout << "🤝 Open for collaboration\n";
     }
 
     string getContact() {
@@ -54,11 +61,20 @@ public:
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding">
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
-### 🎨 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 🎨 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
 
 </div>
 

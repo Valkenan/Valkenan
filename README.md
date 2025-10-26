@@ -1,29 +1,92 @@
-# Hi 👋, I'm Valkenan
+<div align="center">
+  
+# Hi 👋, I'm Adam El Fennych (Valkenan)
 
-### A passionate C++ developer
+### Passionate C++ Developer | Software Engineering Enthusiast
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Valkenan" alt="Valkenan" /></a> </p>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Valkenan&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://twitter.com/valkenan_" target="blank"><img src="https://img.shields.io/twitter/follow/valkenan_?logo=twitter&style=for-the-badge" alt="valkenan_" /></a> </p>
+</div>
 
-- 🌱 I'm currently learning **OOP**
+---
 
-- 📫 How to reach me **adamfennych07@gmail.com**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Valkenan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Valkenan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adam-el-fennych-b548a338a " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adam-el-fennych-b548a338a " height="30" width="40" /></a>
-<a href="https://twitter.com/valkenan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="valkenan_" height="30" width="40" /></a>
-<a href="https://discord.gg/valkenan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="valkenan" height="30" width="40" /></a>
-</p>
+- 🔭 Currently focusing on **C++ development** and mastering **Object-Oriented Programming (OOP)**
+- 🌱 Continuously learning and improving my software engineering skills
+- 💡 Passionate about clean code, efficient algorithms, and system design
+- 📫 Reach me at: **adamfennych07@gmail.com**
+- 💬 Open to collaboration and interesting projects!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Valkenan&show_icons=true&locale=en&layout=compact" alt="Valkenan" /></p>
+## 🌐 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Valkenan&show_icons=true&locale=en" alt="Valkenan" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Valkenan&" alt="Valkenan" /></p>
+[![GitHub](https://img.shields.io/badge/GitHub-Valkenan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Valkenan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam_El_Fennych-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-el-fennych-b548a338a)
+[![Twitter](https://img.shields.io/badge/Twitter-@valkenan__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/valkenan_)
+[![Discord](https://img.shields.io/badge/Discord-valkenan-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/valkenan)
 
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Valkenan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valkenan&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Valkenan&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Valkenan&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+  
+**⭐ If you like my work, consider giving my repositories a star!**
+
+</div>

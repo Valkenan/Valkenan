@@ -380,7 +380,7 @@ const Adam = {
   learningPath: "From fundamentals to advanced C++ concepts",
   repositories: 7,
   funFact: "I debug in my dreams 💭",
-  askMeAbout: ["C++", "OOP", "Problem Solving", "Learning Resources"]
+  askMeAbout: ["C++", "OOP", "Problem Solving", "Learning Resources"],
 };
 ```
 
@@ -407,7 +407,7 @@ const Adam = {
 if (you.liked(this.profile)) {
     return "⭐ Star my repos!";
 }
-````
+```
 
 </div>
 

@@ -213,6 +213,7 @@ public:
 <td width="50%">
 
 **🖥️ Developer Info**
+
 ```text
 👨‍💻 Years of coding      3+
 🔥 Commits this year     500+
@@ -226,6 +227,7 @@ public:
 <td width="50%">
 
 **📈 This Week**
+
 ```text
 ⌚ Coding Time           15+ hrs
 🐛 Bugs Fixed            8
@@ -326,7 +328,7 @@ const Adam = {
   architecture: ["OOP", "Design Patterns"],
   currentChallenge: "Building scalable C++ applications",
   funFact: "I debug in my dreams 💭",
-  askMeAbout: ["C++", "Algorithms", "Problem Solving"]
+  askMeAbout: ["C++", "Algorithms", "Problem Solving"],
 };
 ```
 
@@ -355,7 +357,7 @@ const Adam = {
 <br/>
 
 ```cpp
-// Thanks for visiting! 
+// Thanks for visiting!
 if (you.liked(this.profile)) {
     return "⭐ Star my repos!";
 }

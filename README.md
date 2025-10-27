@@ -123,7 +123,7 @@ public:
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">C++ Course Series</h3>
+<h3 align="center"><a href="https://github.com/Valkenan?tab=repositories&q=cours" style="text-decoration:none; color:inherit;">C++ Course Series</a></h3>
 <div align="center">  
 <a href="https://github.com/Valkenan/Cours-6" target="_blank"><img src="https://img.shields.io/badge/Cours--6-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-6"/></a>
 <a href="https://github.com/Valkenan/Cours-5" target="_blank"><img src="https://img.shields.io/badge/Cours--5-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-5"/></a>
@@ -136,12 +136,12 @@ public:
 </div>
 </td>
 <td width="50%">
-<h3 align="center">Web Development</h3>
+<h3 align="center">Side Projects</h3>
 <div align="center">
 <a href="https://github.com/Valkenan/Project-12" target="_blank"><img src="https://img.shields.io/badge/Project--12-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Project-12"/></a>
 <br/><br/>
-<p><strong>🌐 Web Project</strong></p>
-<p>HTML-based project showcasing web development skills and front-end design capabilities.</p>
+<p><strong>🌐 Web Development</strong></p>
+<p>HTML-based project exploring front-end development and design.</p>
 </div>
 </td>
 </tr>
@@ -180,60 +180,7 @@ public:
 
 ## 💻 Tech Arsenal
 
-<table>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-        <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
-        <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-        <br>CSS3
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-        <br>Linux
-    </td>
-</tr>
-<tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        <br>Figma
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-        <br>Bash
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cmake" width="48" height="48" alt="CMake" />
-        <br>CMake
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-    </td>
-</tr>
-</table>
+![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,git,linux,vscode,figma,github,bash,cmake,docker&perline=6)
 
 </div>
 
@@ -242,41 +189,6 @@ public:
 <div align="center">
 
 ## 📊 GitHub Statistics & Insights
-
-<table>
-<tr>
-<td width="50%">
-
-**🖥️ Developer Info**
-
-```text
-👨‍💻 Years of Coding       2+
-🔥 Active Repositories   7
-⭐ Total Commits          Growing Daily
-🌟 Favorite Language     C++
-🎯 Current Goal          Master OOP & DSA
-💼 Status                Student & Developer
-```
-
-</td>
-<td width="50%">
-
-**📈 Learning Focus**
-
-```text
-📚 C++ Courses           6 Modules
-🏗️ Web Development       In Progress
-✨ Projects Active        Multiple
-📝 Code Quality          Clean & Efficient
-☕ Coffee Consumed        ∞
-💪 Challenges Daily      Yes!
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Valkenan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Valkenan&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" />

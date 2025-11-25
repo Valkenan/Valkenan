@@ -92,8 +92,8 @@ public:
 <tr>
 <td align="center" width="33%">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
-<br><b>Advanced C++</b>
-<br><sub>Templates & STL</sub>
+<br><b>Problem Solving</b>
+<br><sub>C++ & Algorithms</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="60" height="60" alt="OOP"/>
@@ -102,8 +102,8 @@ public:
 </td>
 <td align="center" width="33%">
 <img src="https://cdn-icons-png.flaticon.com/512/4215/4215831.png" width="60" height="60" alt="Algorithms"/>
-<br><b>Algorithms</b>
-<br><sub>Data Structures</sub>
+<br><b>Data Structures</b>
+<br><sub>Arrays, Vectors, Pointers</sub>
 </td>
 </tr>
 </table>

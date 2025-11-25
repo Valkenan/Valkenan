@@ -45,17 +45,17 @@ class Developer {
 private:
     string name = "Adam El Fennych";
     string alias = "Valkenan";
-    string location = "🌍 Morocco";
-    vector<string> skills = {
-        "C++", "OOP", "DSA",
-        "HTML/CSS", "Git"
+    string location = "🌍 Earth";
+    vector<string> focus = {
+        "C++", "OOP",
+        "System Design"
     };
 
 public:
     void getCurrentMission() {
         cout << "🔭 Mastering C++ & OOP\n";
-        cout << "📚 200+ coding problems solved\n";
-        cout << "🌱 Exploring web development\n";
+        cout << "💡 Building elegant solutions\n";
+        cout << "🌱 Constantly evolving\n";
         cout << "🤝 Open for collaboration\n";
     }
 
@@ -90,39 +90,23 @@ public:
 
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
 <br><b>Advanced C++</b>
-<br><sub>Pointers & Memory</sub>
+<br><sub>Templates & STL</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="50" height="50" alt="OOP"/>
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="60" height="60" alt="OOP"/>
 <br><b>OOP Design</b>
 <br><sub>SOLID Principles</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/4215/4215831.png" width="50" height="50" alt="Algorithms"/>
+<td align="center" width="33%">
+<img src="https://cdn-icons-png.flaticon.com/512/4215/4215831.png" width="60" height="60" alt="Algorithms"/>
 <br><b>Algorithms</b>
 <br><sub>Data Structures</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://cdn-icons-png.flaticon.com/512/1336/1336494.png" width="50" height="50" alt="Web"/>
-<br><b>Web Dev</b>
-<br><sub>HTML/CSS</sub>
-</td>
 </tr>
 </table>
-
-<br/>
-
-<!-- Progress bars -->
-
-```text
-C++ Fundamentals    ████████████████████████████░░   95%
-Object-Oriented     ██████████████████████████░░░░   85%
-Data Structures     ███████████████████████░░░░░░░   75%
-Web Development     █████████████████░░░░░░░░░░░░░   55%
-```
 
 </div>
 
@@ -136,52 +120,28 @@ Web Development     █████████████████░░░
 
 <div align="center">
 
-<!-- C++ Course Series -->
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3 align="center">🎓 C++ Mastery Series</h3>
-<div align="center">
-  
-| Repository | Content | Highlights |
-|:----------:|:-------:|:----------:|
-| [![Cours-6](https://img.shields.io/badge/Cours--6-60_Lessons-00599C?style=flat-square&logo=cplusplus)](https://github.com/Valkenan/Cours-6) | Pointers, Memory, File I/O | 🔥 Advanced |
-| [![Cours-5](https://img.shields.io/badge/Cours--5-50+_Problems-00599C?style=flat-square&logo=cplusplus)](https://github.com/Valkenan/Cours-5) | Algorithms + 2 Game Projects | 🎮 Projects |
-| [![Cours-4](https://img.shields.io/badge/Cours--4-50_Problems-00599C?style=flat-square&logo=cplusplus)](https://github.com/Valkenan/Cours-4) | Functions, Structs, Enums | 📈 Intermediate |
-| [![cours-3](https://img.shields.io/badge/Cours--3-Fundamentals-00599C?style=flat-square&logo=cplusplus)](https://github.com/Valkenan/cours-3) | Loops, Arrays, Strings | 🟢 Beginner |
-
+<td width="50%">
+<h3 align="center"><a href="https://github.com/Valkenan?tab=repositories&q=cours" style="text-decoration:none; color:inherit;">C++ Course Series</a></h3>
+<div align="center">  
+<a href="https://github.com/Valkenan/Cours-6" target="_blank"><img src="https://img.shields.io/badge/Cours--6-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-6"/></a>
+<a href="https://github.com/Valkenan/Cours-5" target="_blank"><img src="https://img.shields.io/badge/Cours--5-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-5"/></a>
 <br/>
-
-**📊 Total: 200+ Problems & Exercises**
-
-<sub>🎮 Includes: Math Quiz Game • Rock-Paper-Scissors</sub>
-
+<a href="https://github.com/Valkenan/Cours-4" target="_blank"><img src="https://img.shields.io/badge/Cours--4-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-4"/></a>
+<a href="https://github.com/Valkenan/cours-3" target="_blank"><img src="https://img.shields.io/badge/Cours--3-C++-00599C?style=for-the-badge&logo=cplusplus" alt="cours-3"/></a>
+<br/><br/>
+<p><strong>📖 C++ Learning Journey</strong></p>
+<p>Comprehensive C++ course materials covering fundamental to advanced concepts, including OOP, data structures, and algorithms.</p>
 </div>
 </td>
-<td width="50%" valign="top">
-<h3 align="center">🌐 Web Development</h3>
+<td width="50%">
+<h3 align="center">Side Projects</h3>
 <div align="center">
-<br/>
-<a href="https://github.com/Valkenan/Project-12" target="_blank">
-<img src="https://img.shields.io/badge/🏛️_Découvrez_Athènes-Tourism_Website-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Project-12"/>
-</a>
+<a href="https://github.com/Valkenan/Project-12" target="_blank"><img src="https://img.shields.io/badge/Project--12-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Project-12"/></a>
 <br/><br/>
-
-**✨ Features:**
-
--   📱 Fully Responsive Design
--   🎨 Modern CSS3 Animations
--   🖼️ Interactive UI Components
--   🌍 Athens Tourism Guide
-
-<br/>
-
-<sub>Built with HTML5 • CSS3 • Modern Web Standards</sub>
-
-<br/>
-
-**👥 Collaboration with:** Mohamed EL Baidouri
-
+<p><strong>🌐 Web Development</strong></p>
+<p>HTML-based project exploring front-end development and design.</p>
 </div>
 </td>
 </tr>

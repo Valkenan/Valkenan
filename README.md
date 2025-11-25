@@ -45,7 +45,7 @@ class Developer {
 private:
     string name = "Adam El Fennych";
     string alias = "Valkenan";
-    string location = "🌍 Earth";
+    string location = "🇲🇦 Morocco";
     vector<string> focus = {
         "C++", "OOP",
         "System Design"
@@ -164,8 +164,7 @@ public:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/Valkenan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-el-fennych-b548a338a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elfennychadam/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/valkenan_)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/valkenan)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/valkenan_)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamfennych07@gmail.com)
 
 <br/>
@@ -180,7 +179,7 @@ public:
 
 ## 💻 Tech Arsenal
 
-![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,git,linux,vscode,figma,github,bash,cmake,docker&perline=6)
+![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,git,linux,vscode,github,bash&perline=5)
 
 </div>
 
@@ -221,19 +220,6 @@ public:
 
 <div align="center">
 
-### 🎯 Current Mission: Building Tomorrow's Solutions Today
-
-```text
-   ____          __             ___      ____  __  __     ______
-  / __ \____    / /_  ____     /   |    / __ \/ / / /    /_  __/___  ____ ___  __
- / / / / __ \  / / / / / /    / /| |   / / / / / / /      / / / __ \/ __ `__ \/ /
-/ /_/ / / / / / / /_/ / /    / ___ |  / /_/ / /_/ /      / / / /_/ / / / / / / /_
-\____/_/ /_/ /_/\__, (_)    /_/  |_|  \____/\____/      /_/  \____/_/ /_/ /_/\__/
-               /____/
-```
-
-<br/>
-
 <table>
 <tr>
 <td>
@@ -257,31 +243,6 @@ public:
 <br/>
 
 ### ⚡ _"First, solve the problem. Then, write the code."_ – John Johnson
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 Support My Work
-
-<p>If you find my projects helpful or interesting, consider:</p>
-
-**⭐ Starring my repositories** • **🔄 Sharing with others** • **💬 Following for updates**
-
-<br/>
-
-**Let's build something amazing together! 🚀**
-
-<br/>
-
-```cpp
-// Thanks for visiting!
-if (you.liked(this.profile)) {
-    return "⭐ Star my repos!";
-}
-```
 
 </div>
 

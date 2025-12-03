@@ -125,9 +125,10 @@ public:
 <td width="50%">
 <h3 align="center"><a href="https://github.com/Valkenan?tab=repositories&q=cours" style="text-decoration:none; color:inherit;">C++ Course Series</a></h3>
 <div align="center">  
+<a href="https://github.com/Valkenan/Cours-7" target="_blank"><img src="https://img.shields.io/badge/Cours--7-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-7"/></a>
 <a href="https://github.com/Valkenan/Cours-6" target="_blank"><img src="https://img.shields.io/badge/Cours--6-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-6"/></a>
-<a href="https://github.com/Valkenan/Cours-5" target="_blank"><img src="https://img.shields.io/badge/Cours--5-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-5"/></a>
 <br/>
+<a href="https://github.com/Valkenan/Cours-5" target="_blank"><img src="https://img.shields.io/badge/Cours--5-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-5"/></a>
 <a href="https://github.com/Valkenan/Cours-4" target="_blank"><img src="https://img.shields.io/badge/Cours--4-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-4"/></a>
 <a href="https://github.com/Valkenan/cours-3" target="_blank"><img src="https://img.shields.io/badge/Cours--3-C++-00599C?style=for-the-badge&logo=cplusplus" alt="cours-3"/></a>
 <br/><br/>

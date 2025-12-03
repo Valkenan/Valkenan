@@ -29,16 +29,16 @@ Key areas: C++ · OOP · Data Structures · Algorithms · Systems Design
 
 ## Selected Resources
 
-- C++ Course Series: https://github.com/Valkenan?tab=repositories&q=cours
-- Featured project: https://github.com/Valkenan/Project-12
+-   C++ Course Series: https://github.com/Valkenan?tab=repositories&q=cours
+-   Featured project: https://github.com/Valkenan/Project-12
 
 ---
 
 ## Quick Links
 
-- GitHub: https://github.com/Valkenan
-- Courses: https://github.com/Valkenan?tab=repositories&q=cours
-- Email: adamfennych07@gmail.com
+-   GitHub: https://github.com/Valkenan
+-   Courses: https://github.com/Valkenan?tab=repositories&q=cours
+-   Email: adamfennych07@gmail.com
 
 ---
 

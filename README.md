@@ -8,8 +8,8 @@
   </p>
 
   <a href="https://github.com/Valkenan">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Valkenan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valkenan&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Valkenan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Adam's GitHub Stats" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valkenan&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Top Languages" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@
 ### 🛠️ Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,c,html,css,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,c,html,css,git,github,vscode&theme=dark" alt="My Skills" />
   </a>
 </div>
 

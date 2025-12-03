@@ -4,22 +4,22 @@
 
 I build clean, efficient C++ solutions and create educational content to help others master programming.
 
-- 💻 Daily: `.cpp`, `.h`, `.py`, `.html`, `.css`
-- 🎯 Focus: **OOP**, **Data Structures**, **Algorithms**, **System Design**
-- 📚 Creating: C++ course series for learners
-- 📫 Reach me: [adamfennych07@gmail.com](mailto:adamfennych07@gmail.com)
+-   💻 Daily: `.cpp`, `.h`, `.py`, `.html`, `.css`
+-   🎯 Focus: **OOP**, **Data Structures**, **Algorithms**, **System Design**
+-   📚 Creating: C++ course series for learners
+-   📫 Reach me: [adamfennych07@gmail.com](mailto:adamfennych07@gmail.com)
 
 ---
 
 #### 📚 C++ Course Series
 
-| Course | Topics |
-|--------|--------|
-| [Cours-7](https://github.com/Valkenan/Cours-7) | Advanced C++ |
-| [Cours-6](https://github.com/Valkenan/Cours-6) | OOP Concepts |
+| Course                                         | Topics          |
+| ---------------------------------------------- | --------------- |
+| [Cours-7](https://github.com/Valkenan/Cours-7) | Advanced C++    |
+| [Cours-6](https://github.com/Valkenan/Cours-6) | OOP Concepts    |
 | [Cours-5](https://github.com/Valkenan/Cours-5) | Data Structures |
-| [Cours-4](https://github.com/Valkenan/Cours-4) | Algorithms |
-| [Cours-3](https://github.com/Valkenan/cours-3) | Fundamentals |
+| [Cours-4](https://github.com/Valkenan/Cours-4) | Algorithms      |
+| [Cours-3](https://github.com/Valkenan/cours-3) | Fundamentals    |
 
 ---
 

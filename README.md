@@ -51,16 +51,6 @@
 
 ---
 
-<h3 align="center">🏆 Featured Project: Bank Management System</h3>
-
-> _An advanced console application built with C++ demonstrating file persistence and complex logic._
-
-| 🏦 Project      | 🛠️ Key Tech Used                                                     | 🔗 View Code                                          |
-| :-------------- | :------------------------------------------------------------------- | :---------------------------------------------------- |
-| **Bank System** | `Vector Manipulation` `File I/O (CRUD)` `String Parsing` `User Auth` | [**Repository**](https://github.com/Valkenan/Cours-7) |
-
-<br/>
-
 <h3 align="center">🗺️ My Learning Journey (C++ Path)</h3>
 
 | 📂 Repository                                      | 🧠 Core Concepts Mastered                                                                       | 🛠️ Projects                                                       |

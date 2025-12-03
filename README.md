@@ -1,15 +1,17 @@
 <div align="center">
-  <h1>Hi there, I'm Adam 👋</h1>
-  <h3>C++ Student from Morocco 🇲🇦</h3>
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=120&section=header&text=Adam%20El%20Fennych&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35)
+
+  **`C++ Student`** · **`Problem Solver`** · **`Morocco 🇲🇦`**
 
   <p>
-    I'm a passionate student on a journey to master <b>C++ programming</b>.<br>
-    I believe in learning by doing, documenting everything through hands-on projects.
+    Passionate about mastering <b>C++</b> through hands-on projects.<br/>
+    These repos are my learning journal — follow my journey from basics to advanced!
   </p>
 
   <a href="https://github.com/Valkenan">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Valkenan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Adam's GitHub Stats" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valkenan&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Top Languages" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Valkenan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats" />
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Valkenan&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak Stats" />
   </a>
 </div>
 
@@ -44,4 +46,10 @@
   <a href="mailto:adamfennych07@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/>
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=80&section=footer" />
 </div>

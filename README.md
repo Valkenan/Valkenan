@@ -26,24 +26,24 @@
 
 <br/>
 
-### 🛠️ Technical Arsenal
+<h3 align="center">🛠️ Technical Arsenal</h3>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="90"><b>Languages</b></td>
-      <td align="center" width="90"><b>Tools</b></td>
-      <td align="center" width="90"><b>Editors</b></td>
+      <td align="center" width="200"><b>💻 Languages</b></td>
+      <td align="center" width="200"><b>🔧 Tools</b></td>
+      <td align="center" width="200"><b>📝 Editors</b></td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=cpp,c,py" alt="Languages" />
+        <img src="https://skillicons.dev/icons?i=python,cpp,html,css,bootstrap" alt="Languages" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,html,css" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=git,github,linux" alt="Tools" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,visualstudio" alt="Editors" />
+        <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio" alt="Editors" />
       </td>
     </tr>
   </table>
@@ -51,7 +51,7 @@
 
 ---
 
-### 🏆 Featured Project: Bank Management System
+<h3 align="center">🏆 Featured Project: Bank Management System</h3>
 
 > _An advanced console application built with C++ demonstrating file persistence and complex logic._
 
@@ -61,7 +61,7 @@
 
 <br/>
 
-### 🗺️ My Learning Journey (C++ Path)
+<h3 align="center">🗺️ My Learning Journey (C++ Path)</h3>
 
 | 📂 Repository                                      | 🧠 Core Concepts Mastered                                                                       | 🛠️ Projects                                                       |
 | :------------------------------------------------- | :---------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- |
@@ -73,7 +73,7 @@
 
 ---
 
-### 📫 Let's Connect
+<h3 align="center">📫 Let's Connect</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adam-el-fennych-b548a338a">

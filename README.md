@@ -19,8 +19,8 @@
   <a href="https://github.com/Valkenan">
     <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Valkenan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/Valkenan">
-    <img height="165" src="https://streak-stats.demolab.com/?user=Valkenan&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak Stats" />
+  <a href="https://git.io/streak-stats">
+    <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=Valkenan&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak Stats" />
   </a>
 </div>
 

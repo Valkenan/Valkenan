@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header&text=Valkenan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20in%20the%20Making&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header&text=Adam%20El%20Fennych&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20in%20the%20Making&descAlignY=52&descSize=18"/>
 
 <div align="center">
   
@@ -16,22 +16,14 @@
 
 <br/>
 
-<!-- About Section -->
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
-
-<br/>
-
-```yaml
-💫 About Me:
-    nickname: "Valkenan"
-    role: "Software Engineering Student"
-    location: "Morocco 🇲🇦"
-    current_focus: "Mastering C++ & Low-Level Programming"
-    learning_philosophy: "Build → Break → Learn → Repeat"
-    fun_fact: "I document every line of code I write!"
-```
 
 <br/>
 
@@ -51,7 +43,7 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Valkenan&custom_title=Valkenan's%20Contribution%20Graph&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FF6B6B&area_color=38BDF8&title_color=38BDF8&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Valkenan&custom_title=Adam's%20Contribution%20Graph&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FF6B6B&area_color=38BDF8&title_color=38BDF8&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -65,17 +57,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell&perline=5" alt="Tools"/>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea&perline=3" alt="IDEs"/>
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
 </div>
 
 <br/>

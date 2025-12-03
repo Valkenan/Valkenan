@@ -2,7 +2,7 @@
 
 #### C++ Student from Morocco 🇲🇦
 
-I'm a student learning C++ and sharing my journey. These repos document what I'm studying and practicing.
+I'm Adam, a passionate student on a journey to master C++ programming. I believe in learning by doing, so I document everything I study through hands-on projects and problem-solving. My repos are my digital notebook — feel free to explore and learn along with me!
 
 -   💻 Learning: `.cpp`, `.h`, `.py`, `.html`, `.css`
 -   🎯 Focus: **OOP**, **Data Structures**, **Algorithms**

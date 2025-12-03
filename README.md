@@ -1,55 +1,74 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Adam+%F0%9F%91%8B;C%2B%2B+Developer+in+the+Making;Always+Learning,+Always+Coding..." alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <h3>🚀 C++ Enthusiast from Morocco 🇲🇦</h3>
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=120&section=header&text=Adam%20El%20Fennych&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35)
-
-  **`C++ Student`** · **`Problem Solver`** · **`Morocco 🇲🇦`**
-
   <p>
-    Passionate about mastering <b>C++</b> through hands-on projects.<br/>
-    These repos are my learning journal — follow my journey from basics to advanced!
+    I am a disciplined student focused on mastering <b>Software Engineering</b> through low-level programming.<br>
+    My goal is to build efficient, scalable systems while documenting my journey through hands-on projects.
   </p>
 
   <a href="https://github.com/Valkenan">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Valkenan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats" />
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Valkenan&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak Stats" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Valkenan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Adam's GitHub Stats" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valkenan&layout=compact&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Top Languages" />
   </a>
 </div>
 
 <br/>
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Arsenal
+
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,c,html,css,git,github,vscode&theme=dark" alt="My Skills" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="90"><b>Languages</b></td>
+      <td align="center" width="90"><b>Tools</b></td>
+      <td align="center" width="90"><b>Editors</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp,c,py" alt="Languages" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,html,css" alt="Tools" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode" alt="Editors" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🚀 My Learning Path
+### 🏆 Featured Project: Bank Management System
+> *Built with C++, Vectors, and File Handling logic.*
 
-| 📂 Repository | 🧠 Key Concepts Learned |
-| :--- | :--- |
-| [**Cours-7**](https://github.com/Valkenan/Cours-7) | `Matrices` `Strings` `Vectors` • **Bank Project** 🏦 |
-| [**Cours-6**](https://github.com/Valkenan/Cours-6) | `Pointers` `Memory Mgmt` `File I/O` • **Functions** 💾 |
-| [**Cours-5**](https://github.com/Valkenan/Cours-5) | `Math Quiz` `RPS Game` • **50+ Practice Problems** 🎮 |
-| [**Cours-4**](https://github.com/Valkenan/Cours-4) | `Control Flow` `Enums` • **Logic Building** ⚙️ |
-| [**Cours-3**](https://github.com/Valkenan/cours-3) | `Arrays` `Loops` `Syntax` • **Basics** 📝 |
+| 🏦 Project | ⭐ Key Features | 🔗 Link |
+| :--- | :--- | :--- |
+| **Bank System** | `User Auth` `Transactions` `Data Persistence` | [**View Code**](https://github.com/Valkenan/Cours-7) |
+
+<br/>
+
+### 🗺️ My Learning Journey (C++ Path)
+
+| 📂 Repository | 🧠 Core Concepts Mastered | Status |
+| :--- | :--- | :---: |
+| [**Cours-6**](https://github.com/Valkenan/Cours-6) | `Pointers` `Memory Mgmt` `File I/O` • **Functions** | ✅ |
+| [**Cours-5**](https://github.com/Valkenan/Cours-5) | `Math Logic` `RPS Game` • **50+ Problem Solving** | ✅ |
+| [**Cours-4**](https://github.com/Valkenan/Cours-4) | `Control Flow` `Enums` • **Algorithmic Logic** | ✅ |
+| [**Cours-3**](https://github.com/Valkenan/cours-3) | `Arrays` `Loops` `Syntax` • **Foundations** | ✅ |
 
 ---
 
-### 📫 Connect with me
+### 📫 Let's Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/adam-el-fennych-b548a338a">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:adamfennych07@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=80&section=footer" />
 </div>

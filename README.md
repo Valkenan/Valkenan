@@ -35,7 +35,7 @@
         <img src="https://skillicons.dev/icons?i=git,github,html,css" alt="Tools" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode" alt="Editors" />
+        <img src="https://skillicons.dev/icons?i=vscode,visualstudio" alt="Editors" />
       </td>
     </tr>
   </table>
@@ -44,22 +44,23 @@
 ---
 
 ### 🏆 Featured Project: Bank Management System
-> *Built with C++, Vectors, and File Handling logic.*
+> *An advanced console application built with C++ demonstrating file persistence and complex logic.*
 
-| 🏦 Project | ⭐ Key Features | 🔗 Link |
+| 🏦 Project | 🛠️ Key Tech Used | 🔗 View Code |
 | :--- | :--- | :--- |
-| **Bank System** | `User Auth` `Transactions` `Data Persistence` | [**View Code**](https://github.com/Valkenan/Cours-7) |
+| **Bank System** | `Vector Manipulation` `File I/O (CRUD)` `String Parsing` `User Auth` | [**Repository**](https://github.com/Valkenan/Cours-7) |
 
 <br/>
 
 ### 🗺️ My Learning Journey (C++ Path)
 
-| 📂 Repository | 🧠 Core Concepts Mastered | Status |
-| :--- | :--- | :---: |
-| [**Cours-6**](https://github.com/Valkenan/Cours-6) | `Pointers` `Memory Mgmt` `File I/O` • **Functions** | ✅ |
-| [**Cours-5**](https://github.com/Valkenan/Cours-5) | `Math Logic` `RPS Game` • **50+ Problem Solving** | ✅ |
-| [**Cours-4**](https://github.com/Valkenan/Cours-4) | `Control Flow` `Enums` • **Algorithmic Logic** | ✅ |
-| [**Cours-3**](https://github.com/Valkenan/cours-3) | `Arrays` `Loops` `Syntax` • **Foundations** | ✅ |
+| 📂 Repository | 🧠 Core Concepts Mastered | 🛠️ Projects |
+| :--- | :--- | :--- |
+| [**Cours-7**](https://github.com/Valkenan/Cours-7) | **Algorithms Lvl 3:** `Matrices (2D Arrays)` `Custom String Lib` `Vectors` `Data Serialization` | **Bank Management System** 🏦<br>_(CRUD, File Persistence)_ |
+| [**Cours-6**](https://github.com/Valkenan/Cours-6) | **Memory & Files:** `Pointers` `Dynamic Allocation` `File Streams (fstream)` `Bitwise Ops` | **60+ Tech Demos** 💾<br>_(Memory Mgmt, Stack vs Heap)_ |
+| [**Cours-5**](https://github.com/Valkenan/Cours-5) | **Logic Building:** `Structs` `Enums` `Random Gen` `Input Validation` | **Math Game & RPS Game** 🎮<br>_(50+ Problem Solving Challenges)_ |
+| [**Cours-4**](https://github.com/Valkenan/Cours-4) | **Flow Control:** `Complex Loops` `Function Overloading` `Scope` | **Logic Puzzles** ⚙️ |
+| [**Cours-3**](https://github.com/Valkenan/cours-3) | **Foundations:** `Syntax` `Basic Arrays` `Data Types` | **The Beginning** 📝 |
 
 ---
 

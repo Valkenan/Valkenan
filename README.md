@@ -1,47 +1,30 @@
-<div align="center">
+### Hey there 👋
 
-# Adam El Fennych
+#### C++ Developer & Educator from Morocco 🇲🇦
 
-**C++ Developer · Code Architect**
+I build clean, efficient C++ solutions and create educational content to help others master programming.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Valkenan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-el-fennych-b548a338a)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adamfennych07@gmail.com)
-
-</div>
-
----
-
-### About
-
-C++ developer focused on clean architecture, performance, and education. I create practical course materials and projects to help others master programming.
-
-**Skills:** C++ · OOP · Data Structures · Algorithms · Python · Git · Linux
+- 💻 Daily: `.cpp`, `.h`, `.py`, `.html`, `.css`
+- 🎯 Focus: **OOP**, **Data Structures**, **Algorithms**, **System Design**
+- 📚 Creating: C++ course series for learners
+- 📫 Reach me: [adamfennych07@gmail.com](mailto:adamfennych07@gmail.com)
 
 ---
 
-### C++ Courses
+#### 📚 C++ Course Series
 
-[![Cours-7](https://img.shields.io/badge/Cours--7-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Valkenan/Cours-7)
-[![Cours-6](https://img.shields.io/badge/Cours--6-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Valkenan/Cours-6)
-[![Cours-5](https://img.shields.io/badge/Cours--5-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Valkenan/Cours-5)
-[![Cours-4](https://img.shields.io/badge/Cours--4-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Valkenan/Cours-4)
-[![Cours-3](https://img.shields.io/badge/Cours--3-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Valkenan/cours-3)
-
----
-
-### Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Valkenan&theme=dark&hide_border=true&background=0D1117)
-
-</div>
+| Course | Topics |
+|--------|--------|
+| [Cours-7](https://github.com/Valkenan/Cours-7) | Advanced C++ |
+| [Cours-6](https://github.com/Valkenan/Cours-6) | OOP Concepts |
+| [Cours-5](https://github.com/Valkenan/Cours-5) | Data Structures |
+| [Cours-4](https://github.com/Valkenan/Cours-4) | Algorithms |
+| [Cours-3](https://github.com/Valkenan/cours-3) | Fundamentals |
 
 ---
 
-<div align="center">
+#### 🔗 Connect
 
-_"First, solve the problem. Then, write the code."_
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-el-fennych-b548a338a)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Valkenan)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adamfennych07@gmail.com)

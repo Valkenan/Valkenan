@@ -13,13 +13,13 @@ I'm a student learning C++ and sharing my journey. These repos document what I'm
 
 #### 📚 My C++ Learning Path
 
-| Course                                         | What I'm Learning                              |
-| ---------------------------------------------- | ---------------------------------------------- |
-| [Cours-7](https://github.com/Valkenan/Cours-7) | Matrices, Strings, Vectors, Bank Project       |
-| [Cours-6](https://github.com/Valkenan/Cours-6) | Pointers, Memory, File I/O, Functions          |
+| Course                                         | What I'm Learning                                 |
+| ---------------------------------------------- | ------------------------------------------------- |
+| [Cours-7](https://github.com/Valkenan/Cours-7) | Matrices, Strings, Vectors, Bank Project          |
+| [Cours-6](https://github.com/Valkenan/Cours-6) | Pointers, Memory, File I/O, Functions             |
 | [Cours-5](https://github.com/Valkenan/Cours-5) | 50+ Problems, Math Quiz Game, Rock-Paper-Scissors |
-| [Cours-4](https://github.com/Valkenan/Cours-4) | 50 Problems: Control Flow, Functions, Enums    |
-| [Cours-3](https://github.com/Valkenan/cours-3) | Strings, Arrays, Loops, Functions Basics       |
+| [Cours-4](https://github.com/Valkenan/Cours-4) | 50 Problems: Control Flow, Functions, Enums       |
+| [Cours-3](https://github.com/Valkenan/cours-3) | Strings, Arrays, Loops, Functions Basics          |
 
 ---
 

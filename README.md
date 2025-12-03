@@ -198,16 +198,6 @@ public:
 
 <div align="center">
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Valkenan&bg_color=0d1117&color=f85d7f&line=f8d866&point=c9d1d9&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 💭 Developer Wisdom
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />

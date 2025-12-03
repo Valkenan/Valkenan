@@ -2,7 +2,6 @@
 
 **Junior C++ Developer** based in Morocco, actively seeking software engineering opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-el-fennych-b548a338a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adamfennych07@gmail.com)
 [![Portfolio](https://img.shields.io/badge/GitHub-Valkenan-181717?style=flat-square&logo=github)](https://github.com/Valkenan)
 
@@ -45,5 +44,4 @@
 
 I'm open to **internships**, **junior developer positions**, and **freelance projects**.
 
-📧 **adamfennych07@gmail.com**  
-💼 [**linkedin.com/in/adam-el-fennych-b548a338a**](https://www.linkedin.com/in/adam-el-fennych-b548a338a)
+📧 **adamfennych07@gmail.com**

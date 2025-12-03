@@ -42,6 +42,6 @@ C++ developer focused on clean architecture, performance, and education. I creat
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+_"First, solve the problem. Then, write the code."_
 
 </div>

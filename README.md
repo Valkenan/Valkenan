@@ -29,24 +29,21 @@
 <h3 align="center">🛠️ Technical Arsenal</h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200"><b>💻 Languages</b></td>
-      <td align="center" width="200"><b>🔧 Tools</b></td>
-      <td align="center" width="200"><b>📝 Editors</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=python,cpp,html,css,bootstrap" alt="Languages" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,linux" alt="Tools" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio" alt="Editors" />
-      </td>
-    </tr>
-  </table>
+  
+  ```text
+  ⚡ Languages        🔧 Tools            📝 Editors
+  ```
+  
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,bootstrap&theme=dark" alt="Languages" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell&theme=dark" alt="Tools" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio&theme=dark" alt="Editors" />
+  </p>
+  
 </div>
 
 ---
@@ -66,15 +63,26 @@
 <h3 align="center">📫 Let's Connect</h3>
 
 <div align="center">
+  <p><i>I'm always open to collaborating on projects and learning together!</i></p>
+  <br/>
+  
   <a href="https://www.linkedin.com/in/adam-el-fennych-b548a338a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:adamfennych07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  &nbsp;
   <a href="https://github.com/Valkenan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/📍_Morocco-red?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/💼_Open_to_Opportunities-38BDF8?style=flat-square" alt="Status"/>
+  
 </div>
 
 <br/>

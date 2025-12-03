@@ -17,10 +17,10 @@
 
 <div align="center">
   <a href="https://github.com/Valkenan">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Valkenan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Valkenan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Valkenan">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Valkenan&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak Stats" />
+    <img height="165" src="https://streak-stats.demolab.com/?user=Valkenan&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak Stats" />
   </a>
 </div>
 
@@ -52,27 +52,29 @@
 ---
 
 ### 🏆 Featured Project: Bank Management System
-> *An advanced console application built with C++ demonstrating file persistence and complex logic.*
 
-| 🏦 Project | 🛠️ Key Tech Used | 🔗 View Code |
-| :--- | :--- | :--- |
+> _An advanced console application built with C++ demonstrating file persistence and complex logic._
+
+| 🏦 Project      | 🛠️ Key Tech Used                                                     | 🔗 View Code                                          |
+| :-------------- | :------------------------------------------------------------------- | :---------------------------------------------------- |
 | **Bank System** | `Vector Manipulation` `File I/O (CRUD)` `String Parsing` `User Auth` | [**Repository**](https://github.com/Valkenan/Cours-7) |
 
 <br/>
 
 ### 🗺️ My Learning Journey (C++ Path)
 
-| 📂 Repository | 🧠 Core Concepts Mastered | 🛠️ Projects |
-| :--- | :--- | :--- |
-| [**Cours-7**](https://github.com/Valkenan/Cours-7) | **Algorithms Lvl 3:** `Matrices (2D Arrays)` `Custom String Lib` `Vectors` `Data Serialization` | **Bank Management System** 🏦<br>_(CRUD, File Persistence)_ |
-| [**Cours-6**](https://github.com/Valkenan/Cours-6) | **Memory & Files:** `Pointers` `Dynamic Allocation` `File Streams (fstream)` `Bitwise Ops` | **60+ Tech Demos** 💾<br>_(Memory Mgmt, Stack vs Heap)_ |
-| [**Cours-5**](https://github.com/Valkenan/Cours-5) | **Logic Building:** `Structs` `Enums` `Random Gen` `Input Validation` | **Math Game & RPS Game** 🎮<br>_(50+ Problem Solving Challenges)_ |
-| [**Cours-4**](https://github.com/Valkenan/Cours-4) | **Flow Control:** `Complex Loops` `Function Overloading` `Scope` | **Logic Puzzles** ⚙️ |
-| [**Cours-3**](https://github.com/Valkenan/cours-3) | **Foundations:** `Syntax` `Basic Arrays` `Data Types` | **The Beginning** 📝 |
+| 📂 Repository                                      | 🧠 Core Concepts Mastered                                                                       | 🛠️ Projects                                                       |
+| :------------------------------------------------- | :---------------------------------------------------------------------------------------------- | :---------------------------------------------------------------- |
+| [**Cours-7**](https://github.com/Valkenan/Cours-7) | **Algorithms Lvl 3:** `Matrices (2D Arrays)` `Custom String Lib` `Vectors` `Data Serialization` | **Bank Management System** 🏦<br>_(CRUD, File Persistence)_       |
+| [**Cours-6**](https://github.com/Valkenan/Cours-6) | **Memory & Files:** `Pointers` `Dynamic Allocation` `File Streams (fstream)` `Bitwise Ops`      | **60+ Tech Demos** 💾<br>_(Memory Mgmt, Stack vs Heap)_           |
+| [**Cours-5**](https://github.com/Valkenan/Cours-5) | **Logic Building:** `Structs` `Enums` `Random Gen` `Input Validation`                           | **Math Game & RPS Game** 🎮<br>_(50+ Problem Solving Challenges)_ |
+| [**Cours-4**](https://github.com/Valkenan/Cours-4) | **Flow Control:** `Complex Loops` `Function Overloading` `Scope`                                | **Logic Puzzles** ⚙️                                              |
+| [**Cours-3**](https://github.com/Valkenan/cours-3) | **Foundations:** `Syntax` `Basic Arrays` `Data Types`                                           | **The Beginning** 📝                                              |
 
 ---
 
 ### 📫 Let's Connect
+
 <div align="center">
   <a href="https://www.linkedin.com/in/adam-el-fennych-b548a338a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>

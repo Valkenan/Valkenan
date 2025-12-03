@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header&text=Adam%20El%20Fennych&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20in%20the%20Making&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header&text=Valkenan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20in%20the%20Making&descAlignY=52&descSize=18"/>
 
 <div align="center">
   
@@ -25,7 +25,7 @@
 
 ```yaml
 💫 About Me:
-    name: "Adam El Fennych"
+    nickname: "Valkenan"
     role: "Software Engineering Student"
     location: "Morocco 🇲🇦"
     current_focus: "Mastering C++ & Low-Level Programming"
@@ -51,7 +51,7 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Valkenan&custom_title=Adam's%20Contribution%20Graph&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FF6B6B&area_color=38BDF8&title_color=38BDF8&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Valkenan&custom_title=Valkenan's%20Contribution%20Graph&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FF6B6B&area_color=38BDF8&title_color=38BDF8&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <br/>

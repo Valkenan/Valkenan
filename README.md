@@ -1,25 +1,25 @@
 ### Hey there 👋
 
-#### C++ Developer & Educator from Morocco 🇲🇦
+#### C++ Student from Morocco 🇲🇦
 
-I build clean, efficient C++ solutions and create educational content to help others master programming.
+I'm a student learning C++ and sharing my journey. These repos document what I'm studying and practicing.
 
--   💻 Daily: `.cpp`, `.h`, `.py`, `.html`, `.css`
--   🎯 Focus: **OOP**, **Data Structures**, **Algorithms**, **System Design**
--   📚 Creating: C++ course series for learners
+-   💻 Learning: `.cpp`, `.h`, `.py`, `.html`, `.css`
+-   🎯 Focus: **OOP**, **Data Structures**, **Algorithms**
+-   📚 Sharing: My C++ learning progress
 -   📫 Reach me: [adamfennych07@gmail.com](mailto:adamfennych07@gmail.com)
 
 ---
 
-#### 📚 C++ Course Series
+#### 📚 My C++ Learning Path
 
-| Course                                         | Topics          |
-| ---------------------------------------------- | --------------- |
-| [Cours-7](https://github.com/Valkenan/Cours-7) | Advanced C++    |
-| [Cours-6](https://github.com/Valkenan/Cours-6) | OOP Concepts    |
-| [Cours-5](https://github.com/Valkenan/Cours-5) | Data Structures |
-| [Cours-4](https://github.com/Valkenan/Cours-4) | Algorithms      |
-| [Cours-3](https://github.com/Valkenan/cours-3) | Fundamentals    |
+| Course                                         | What I'm Learning |
+| ---------------------------------------------- | ----------------- |
+| [Cours-7](https://github.com/Valkenan/Cours-7) | Advanced C++      |
+| [Cours-6](https://github.com/Valkenan/Cours-6) | OOP Concepts      |
+| [Cours-5](https://github.com/Valkenan/Cours-5) | Data Structures   |
+| [Cours-4](https://github.com/Valkenan/Cours-4) | Algorithms        |
+| [Cours-3](https://github.com/Valkenan/cours-3) | Fundamentals      |
 
 ---
 

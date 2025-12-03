@@ -190,14 +190,7 @@ public:
 
 ## 📊 GitHub Statistics & Insights
 
-<a href="https://github.com/Valkenan">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Valkenan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
-</a>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Valkenan&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak"/>
-
-<a href="https://github.com/Valkenan">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valkenan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Valkenan&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak"/>
 
 </div>
 

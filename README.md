@@ -4,13 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=%F0%9F%91%8B+Welcome+to+my+coding+universe;%E2%9A%A1+Passionate+about+building+efficient+systems)](https://github.com/Valkenan)
 
-  <a href="https://github.com/Valkenan">
-    <img src="https://img.shields.io/badge/Focus-C++%20Development-38BDF8?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/Valkenan">
-    <img src="https://img.shields.io/badge/Location-Morocco%20🇲🇦-red?style=for-the-badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Valkenan&style=for-the-badge&color=38BDF8" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Valkenan&style=flat-square&color=38BDF8" alt="Profile Views"/>
   
 </div>
 

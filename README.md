@@ -4,6 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adam%20El%20Fennych&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=fff&desc=C++%20Developer%20|%20Code%20Architect&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+with+C%2B%2B+%F0%9F%9A%80;Crafting+Elegant+Solutions+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
 
 </div>
@@ -29,10 +30,10 @@ private:
     string name = "Adam El Fennych";
     string alias = "Valkenan";
     string location = "Morocco 🇲🇦";
-    
+
 public:
     vector<string> skills = {"C++", "OOP", "Data Structures", "Algorithms"};
-    
+
     void mission() {
         cout << "🔭 Mastering C++ & Object-Oriented Programming" << endl;
         cout << "💡 Building elegant, efficient solutions" << endl;
@@ -63,11 +64,18 @@ public:
 
 <div align="center">
 
-[![Cours-7](https://img.shields.io/badge/Cours--7-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Valkenan/Cours-7)
-[![Cours-6](https://img.shields.io/badge/Cours--6-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Valkenan/Cours-6)
-[![Cours-5](https://img.shields.io/badge/Cours--5-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Valkenan/Cours-5)
-[![Cours-4](https://img.shields.io/badge/Cours--4-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Valkenan/Cours-4)
-[![Cours-3](https://img.shields.io/badge/Cours--3-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Valkenan/cours-3)
+<a href="https://github.com/Valkenan/Cours-7" target="_blank"><img src="https://img.shields.io/badge/Cours--7-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-7"/></a>
+<a href="https://github.com/Valkenan/Cours-6" target="_blank"><img src="https://img.shields.io/badge/Cours--6-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-6"/></a>
+<a href="https://github.com/Valkenan/Cours-5" target="_blank"><img src="https://img.shields.io/badge/Cours--5-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-5"/></a>
+<br/>
+<a href="https://github.com/Valkenan/Cours-4" target="_blank"><img src="https://img.shields.io/badge/Cours--4-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-4"/></a>
+<a href="https://github.com/Valkenan/cours-3" target="_blank"><img src="https://img.shields.io/badge/Cours--3-C++-00599C?style=for-the-badge&logo=cplusplus" alt="cours-3"/></a>
+
+<br/>
+
+**📖 C++ Learning Journey**
+
+Comprehensive C++ course materials covering fundamental to advanced concepts, including OOP, data structures, and algorithms.
 
 <br/>
 

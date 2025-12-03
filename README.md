@@ -4,125 +4,47 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adam%20El%20Fennych&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Valkenan%20|%20C++%20Developer%20|%20Code%20Architect&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
-
-<div align="center">
-  
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Digital+Workshop+%F0%9F%9B%A0%EF%B8%8F;Building+the+Future+with+C%2B%2B+%F0%9F%9A%80;Crafting+Elegant+Code+Solutions+%F0%9F%92%BB;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
-
-</div>
-
-<br/>
-
+<!-- Minimal Professional README -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Valkenan/Valkenan/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<h1>Adam El Fennych (Valkenan)</h1>
+<p>C++ Developer · Systems Design · Educator</p>
 
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🎯 About Me
-
-</div>
-
-<div align="center">
-
-<table border="0" align="center">
-<tr>
-<td width="50%" align="left">
-
-```cpp
-class Developer {
-private:
-    string name = "Adam El Fennych";
-    string alias = "Valkenan";
-    string location = "🇲🇦 Morocco";
-    vector<string> focus = {
-        "C++", "OOP",
-        "System Design"
-    };
-
-public:
-    void getCurrentMission() {
-        cout << "🔭 Mastering C++ & OOP\n";
-        cout << "💡 Building elegant solutions\n";
-        cout << "🌱 Constantly evolving\n";
-        cout << "🤝 Open for collaboration\n";
-    }
-
-    string getContact() {
-        return "adamfennych07@gmail.com";
-    }
-};
-```
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding">
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-### 🎨 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
+<p>
+  <a href="https://github.com/Valkenan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="mailto:adamfennych07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+## About
 
-## 🔥 Current Focus
+I design and build high-quality C++ software with a focus on clean architecture, performance, and teaching others. I create course material and practical projects that help learners become confident C++ developers.
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
-<br><b>Problem Solving</b>
-<br><sub>C++ & Algorithms</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="60" height="60" alt="OOP"/>
-<br><b>OOP Design</b>
-<br><sub>SOLID Principles</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://cdn-icons-png.flaticon.com/512/4215/4215831.png" width="60" height="60" alt="Algorithms"/>
-<br><b>Data Structures</b>
-<br><sub>Arrays, Vectors, Pointers</sub>
-</td>
-</tr>
-</table>
+Key areas: C++ · OOP · Data Structures · Algorithms · Systems Design
 
-</div>
+---
+
+## Selected Resources
+
+- C++ Course Series: https://github.com/Valkenan?tab=repositories&q=cours
+- Featured project: https://github.com/Valkenan/Project-12
+
+---
+
+## Quick Links
+
+- GitHub: https://github.com/Valkenan
+- Courses: https://github.com/Valkenan?tab=repositories&q=cours
+- Email: adamfennych07@gmail.com
 
 ---
 
 <div align="center">
-
-## 📚 Featured Projects
-
+<small>Profile updated: 2025-12-03</small>
 </div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
 <h3 align="center"><a href="https://github.com/Valkenan?tab=repositories&q=cours" style="text-decoration:none; color:inherit;">C++ Course Series</a></h3>
 <div align="center">  
 <a href="https://github.com/Valkenan/Cours-7" target="_blank"><img src="https://img.shields.io/badge/Cours--7-C++-00599C?style=for-the-badge&logo=cplusplus" alt="Cours-7"/></a>

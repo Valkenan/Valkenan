@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adam%20El%20Fennych&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=500&lines=Problem+Solver+%F0%9F%A7%A9;C%2B%2B+Developer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=500&lines=Problem+Solver+%E2%9A%A1;C%2B%2B+Developer+%7B%7D;Web+Developer+%F0%9F%8C%90;Always+Learning+%E2%88%9E" alt="Typing SVG" /></a>
 
 <br>
 

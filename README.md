@@ -1,62 +1,65 @@
-<div align="center" width="50%">
+<div align="center">
 
-<img src="https://github.com/hazemahmadmohamed/Nember-to-text/blob/master/-Hello-Coders-11-9-2025%20(1).jpg?raw=true"/>  
-<h3>I'm Adam El Fennych 👋</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adam%20El%20Fennych&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/> <br>
+**Problem Solver | C++ Developer | Web Developer | Always Learning**
 
-<details>
-<summary><strong>Busy coding & vibing to 🎧</strong></summary>
+<br><br>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+![Profile Views](https://komarev.com/ghpvc/?username=Valkenan&style=for-the-badge&color=orange&label=PROFILE+VIEWS)
 
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=adamfennych&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/adamfennych&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Adam-grey?style=flat&logo=telegram)](https://t.me/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Valkenan-181717?style=for-the-badge&logo=github)](https://github.com/Valkenan)
+[![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamfennych07@gmail.com)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 
-Hi, I'm **Adam El Fennych**, a passionate developer focused on **problem solving**, **algorithms**, and building amazing projects.  
-I'm continuously learning and expanding my skillset while working on exciting projects that combine clean code with practical solutions.
+Hi there! I'm **Adam El Fennych**, a passionate developer from **Morocco** 🇲🇦
 
----
-
-## 🧠 Skills & Tools
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-000000?style=flat)
-![Algorithms](https://img.shields.io/badge/Algorithms-007ACC?style=flat)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+-   🎯 **Currently focused on:** Problem Solving & Algorithms
+-   💡 **Interests:** C++, Python, Web Development, Competitive Programming
+-   📚 **Learning:** Advanced Data Structures & Design Patterns
+-   ⚡ **Fun fact:** I love turning complex problems into simple solutions!
 
 ---
 
-## 💻 My Projects
+## 🛠️ Tech Stack
 
-| Project                | Description                                      |
-| ---------------------- | ------------------------------------------------ |
-| 🎮 Rock Paper Scissors | A simple C++ game with clean logic and structure |
-| 🧩 Math Game           | Interactive math challenge built in C++          |
-| 🏦 Bank System Project | Console-based bank management system             |
+<div align="center">
+
+|   Category    | Technologies                                                                                                                                                                                                                                                                                                                 |
+| :-----------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frontend**  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)            |
+|   **Tools**   | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)       |
+
+</div>
 
 ---
 
-## 🚀 Learning Path
+## 📂 Featured Projects
 
-Continuously expanding expertise in:
+<div align="center">
 
--   Programming fundamentals and advanced concepts
--   Web development with HTML, CSS, and Bootstrap
--   Python for data processing and automation
--   C++ for system-level programming
--   Building full-scale applications and projects
--   Object-Oriented Programming and design patterns
+| 🎯 Project                 | 📝 Description                                 | 🔧 Tech |
+| :------------------------- | :--------------------------------------------- | :------ |
+| 🏦 **Bank System**         | Full-featured console banking management       | `C++`   |
+| 🧩 **Math Game**           | Interactive math challenge with scoring system | `C++`   |
+| 🎮 **Rock Paper Scissors** | Classic game with clean logic and AI opponent  | `C++`   |
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+_"The only way to do great work is to love what you do."_
+
+⭐ **Feel free to explore my repositories and star the ones you find interesting!**
+
+</div>

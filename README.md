@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adam%20El%20Fennych&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-**Problem Solver | C++ Developer | Web Developer | Always Learning**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=500&lines=Problem+Solver+%F0%9F%A7%A9;C%2B%2B+Developer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" /></a>
 
-<br><br>
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Valkenan&style=for-the-badge&color=orange&label=PROFILE+VIEWS)
 
@@ -61,5 +61,7 @@ Hi there! I'm **Adam El Fennych**, a passionate developer from **Morocco** 🇲�
 _"The only way to do great work is to love what you do."_
 
 ⭐ **Feel free to explore my repositories and star the ones you find interesting!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>

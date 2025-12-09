@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=180&section=header&text=Adam%20El%20Fennych&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7931E&height=180&section=header&text=Adam%20El%20Fennych&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=500&lines=Problem+Solver+%E2%9A%A1;C%2B%2B+Developer+%7B%7D;Web+Developer+%F0%9F%8C%90;Always+Learning+%E2%88%9E" alt="Typing SVG" /></a>
 
@@ -62,6 +62,6 @@ _"The only way to do great work is to love what you do."_
 
 ⭐ **Feel free to explore my repositories and star the ones you find interesting!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F7931E&height=100&section=footer"/>
 
 </div>

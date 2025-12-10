@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7931E&height=180&section=header&text=Adam%20El%20Fennych&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer+%F0%9F%92%BB;Problem+Solver+%E2%9A%A1;C%2B%2B+Developer+%7B%7D;Always+Learning+%E2%88%9E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7931E&center=true&vCenter=true&random=false&width=500&lines=Computer+Science+Student+%F0%9F%8E%93;Problem+Solver+%E2%9A%A1;C%2B%2B+Developer+%7B%7D;Always+Learning+%E2%88%9E" alt="Typing SVG" /></a>
 
 <br>
 
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-Hi there! I'm **Adam El Fennych**, a passionate developer from **Morocco** 🇲🇦
+Hi there! I'm **Adam El Fennych**, a **Computer Science Student** from **Morocco** 🇲🇦
 
 -   🎯 **Currently focused on:** Algorithms & Problem Solving
 -   💡 **Interests:** C++, Python, Web Development, Competitive Programming
